@@ -156,44 +156,4 @@ Console and finding panels stack vertically on smaller viewports.
 
 Tested at 375px (mobile) and 1280px+ (desktop).
 
-⚠️ Known Limitations
 
-No real backend or authentication logic.
-
-Search is limited to name and type filtering only.
-
-Pagination is client-side.
-
-Console output is static mock data (not streaming).
-
-No persistence for theme preference across refresh.
-
-📌 Notes
-
-This implementation focuses on:
-
-Visual accuracy
-
-Component reusability
-
-Clean theming architecture
-
-Interactive UI behavior
-
-Responsive layout handling
-
-Now read this once yourself.
-
-Make small edits so it sounds 5% more like you. Maybe tweak a sentence or two. That removes any “template” feel.
-
-And one more important thing.
-
-Before you push:
-
-Make sure your commit history shows progressive work.
-
-Don’t push everything in one giant commit.
-
-That matters more than people think.
-
-If you want, I can also review your GitHub repo structure like an interviewer would and tell you what impression it gives.
