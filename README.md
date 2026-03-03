@@ -6,7 +6,7 @@ The goal was to accurately recreate three product screens from a B2B cybersecuri
 🚀 Live Demo
 
 Deployed on: Vercel
-(Replace this with your deployed URL)
+https://fenrir-assignment.vercel.app/
 
 🧰 Tech Stack
 
