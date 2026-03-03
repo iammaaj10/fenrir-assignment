@@ -162,7 +162,7 @@ export default function DashboardPage({ onNavigate }) {
             <div className="flex items-center gap-3 mb-4">
               <div className={`flex-1 flex items-center gap-2.5 px-3.5 py-2.5 rounded-md border max-w-4xl
                 ${isDark ? 'bg-[#18191b] border-[#2a2d2f]' : 'bg-white border-gray-200'}`}>
-                <Search size={14} strokeWidth={1.5} className="text-gray-400 flex-shrink-0" />
+                <Search size={14} strokeWidth={1.5} className="text-gray-400 shrink-0" />
                 <input
                   type="text"
                   placeholder="Search scans by name or type..."
