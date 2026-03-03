@@ -198,7 +198,7 @@ export default function LoginPage({ onLogin }) {
                   setAgreed((a) => !a);
                   setErrors((e) => ({ ...e, agreed: false }));
                 }}
-                className={`w-4 h-4 mt-0.5 rounded flex-shrink-0 border-2 flex items-center justify-center transition-all cursor-pointer
+                className={`w-4 h-4 mt-0.5 rounded shrink-0 border-2 flex items-center justify-center transition-all cursor-pointer
                   ${agreed ? "bg-[#0CC8A8] border-[#0CC8A8]" : errors.agreed ? "border-red-400" : "border-gray-300"}`}
               >
                 {agreed && (
